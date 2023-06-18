@@ -1,0 +1,45 @@
+.bar {
+  background-color: #313e56;
+}
+.logo {
+  height: auto;
+  width: 20%;
+}
+.logo_whole {
+  text-decoration: none;
+}
+.logo_name {
+  color: lightskyblue;
+}
+.reg_buttons {
+  background-color: #64809f;
+  transition: background-color 0.3s ease;
+  height: 80%;
+  width: 10%;
+  border: 0px;
+  border-radius: 0.8rem;
+}
+.reg_buttons:hover {
+  background-color: #99acd5;
+  transition: background-color 0.3s ease;
+  height: 80%;
+  width: 10%;
+  border: 0px;
+  border-radius: 0.8rem;
+}
+.logout_button {
+  background-color: #64809f;
+  transition: background-color 0.3s ease;
+  height: 80%;
+  width: 10%;
+  border: 0px;
+  border-radius: 0.8rem;
+}
+.logout_button:hover {
+  background-color: #99acd5;
+  transition: background-color 0.3s ease;
+  height: 80%;
+  width: 10%;
+  border: 0px;
+  border-radius: 0.8rem;
+}

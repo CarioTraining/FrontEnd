@@ -1,0 +1,189 @@
+{
+    "user": [
+        {
+            "id": 1,
+            "name": "Assem Sadek",
+            "email": "adbelhamid.ssen@gmail.com",
+            "phone": "01064065523",
+            "password": "hello123"
+        },
+        {
+            "id": 2,
+            "name": "Omar Saeed",
+            "email": "omar.saeed@gmail.com",
+            "phone": "01055555555",
+            "password": "12345678"
+        },
+        {
+            "id": 3,
+            "name": "Mohammed Hamaky",
+            "email": "mohammed.hamaky@gmail.com",
+            "phone": "01012312355",
+            "password": "password.com"
+        }
+    ],
+    "car": [
+        {
+            "id": 1,
+            "price": 900000,
+            "brand": "Toyota",
+            "model": "Corolla",
+            "cc": "1600",
+            "transmission": "automatic",
+            "fuel": "92",
+            "class": "GR",
+            "hp": "120",
+            "year": "2023",
+            "photos": {
+                "front": "https://contactcars.fra1.cdn.digitaloceanspaces.com/contactcars-production/Images/Large/Engines/63987a5e876d4c01d786783e_d2750a60-350a-4dda-88ff-af703c27350a.jpeg",
+                "back": "https://contactcars.fra1.cdn.digitaloceanspaces.com/contactcars-production/Images/Large/Engines/63987a5e876d4c01d786783e_38ccb0c8-c020-4777-b0f3-9e84e0d4e8e3.jpeg",
+                "interior": "https://contactcars.fra1.cdn.digitaloceanspaces.com/contactcars-production/Images/Large/Engines/63987a5e876d4c01d786783e_dffa82b8-ef74-42ce-9a8b-f262fe1ab634.jpeg"
+            },
+            "brand_logo": "https://cdn.mos.cms.futurecdn.net/WpcTavg99b5XpK6STzSLZ8-1200-80.jpg.webp"
+        },
+        {
+            "id": 2,
+            "price": 595000,
+            "brand": "Toyota",
+            "model": "Belta",
+            "cc": "1500",
+            "transmission": "automatic",
+            "fuel": "92",
+            "class": "Smart",
+            "hp": "103",
+            "year": "2023",
+            "photos": {
+                "front": "https://media.hatla2eestatic.com/uploads/ncarteraz/32487/big-up_1948d015814687fedc32694befd6ef15.png",
+                "back": "https://media.hatla2eestatic.com/uploads/ncarteraz/32487/big-up_027da69b3440dad50ca85a74e024e30d.jpg",
+                "interior": "https://media.hatla2eestatic.com/uploads/ncarteraz/32487/big-up_0a93239671efb488932cd0eae10f864a.jpg"
+            },
+            "brand_logo": "https://cdn.mos.cms.futurecdn.net/WpcTavg99b5XpK6STzSLZ8-1200-80.jpg.webp"
+        },
+        {
+            "id": 3,
+            "price": 6000000,
+            "brand": "Toyota",
+            "model": "Camry",
+            "cc": "2500",
+            "transmission": "automatic",
+            "fuel": "92",
+            "class": "high line",
+            "hp": "178",
+            "year": "2023",
+            "photos": {
+                "front": "https://media.hatla2eestatic.com/uploads/ncarteraz/36629/big-up_c763edbcdbc6cc950e298a471aa03b63.png",
+                "back": "https://media.hatla2eestatic.com/uploads/ncarteraz/36629/big-up_759cc7736dc8ecfe95780e686f1657f9.png",
+                "interior": "https://media.hatla2eestatic.com/uploads/ncarteraz/36629/big-up_d8bc810a74836d8688d8ce759b76cbd8.jpg"
+            },
+            "brand_logo": "https://cdn.mos.cms.futurecdn.net/WpcTavg99b5XpK6STzSLZ8-1200-80.jpg.webp"
+        },
+        {
+            "id": 4,
+            "price": 829900,
+            "brand": "Suzuki",
+            "model": "Ertiga",
+            "cc": "1500",
+            "transmission": "automatic",
+            "fuel": "92",
+            "class": "GLX",
+            "hp": "104",
+            "year": "2022",
+            "photos": {
+                "front": "https://media.hatla2eestatic.com/uploads/ncarteraz/32001/big-up_f9b5074dde1295f3bacf548b93451f61.jpg",
+                "back": "https://media.hatla2eestatic.com/uploads/ncarteraz/32001/big-up_80d43b276993e6280609ac349b217248.jpg",
+                "interior": "https://media.hatla2eestatic.com/uploads/ncarteraz/32001/big-up_09bfc0ac1a774c20ce84777f46919724.jpg"
+            },
+            "brand_logo": "https://banner2.cleanpng.com/20180409/cdq/kisspng-suzuki-spacia-car-motorcycle-jeep-brand-5acbcaeb22d229.5541954315233051951427.jpg"
+        },
+        {
+            "id": 5,
+            "price": 544900,
+            "brand": "Suzuki",
+            "model": "Swift Dzire",
+            "cc": "1200",
+            "transmission": "automatic",
+            "fuel": "92",
+            "class": "Top Line",
+            "hp": "85",
+            "year": "2022",
+            "photos": {
+                "front": "https://media.hatla2eestatic.com/uploads/ncarteraz/31394/big-up_891492df944ffc0ef670ffdb7c59a03d.jpg",
+                "back": "https://media.hatla2eestatic.com/uploads/ncarteraz/31394/big-up_f0ac8ce650c1c3c0a35626b8cb1d822c.jpg",
+                "interior": "https://media.hatla2eestatic.com/uploads/ncarteraz/31394/big-up_9451913d56415d457278200836e6d7a0.jpg"
+            },
+            "brand_logo": "https://banner2.cleanpng.com/20180409/cdq/kisspng-suzuki-spacia-car-motorcycle-jeep-brand-5acbcaeb22d229.5541954315233051951427.jpg"
+        },
+        {
+            "id": 6,
+            "price": 994900,
+            "brand": "Suzuki",
+            "model": "Jimny",
+            "cc": "1500",
+            "transmission": "automatic",
+            "fuel": "92",
+            "class": "Two Tone",
+            "hp": "102",
+            "year": "2023",
+            "photos": {
+                "front": "https://media.hatla2eestatic.com/uploads/ncarteraz/40038/big-up_8504a2d0e6c21ded0b7d35bcd84d9bd6.jpg",
+                "back": "https://media.hatla2eestatic.com/uploads/ncarteraz/40038/big-up_25fff4e10fee3c8bdd65be31d8bdd7ff.jpg",
+                "interior": "https://media.hatla2eestatic.com/uploads/ncarteraz/40038/big-up_79d69df9eaa3aced6da41a01492b2bcc.jpg"
+            },
+            "brand_logo": "https://banner2.cleanpng.com/20180409/cdq/kisspng-suzuki-spacia-car-motorcycle-jeep-brand-5acbcaeb22d229.5541954315233051951427.jpg"
+        },
+        {
+            "id": 7,
+            "price": 1850000,
+            "brand": "Skoda",
+            "model": "Octavia",
+            "cc": "2000",
+            "transmission": "automatic",
+            "fuel": "95",
+            "class": "RS",
+            "hp": "245",
+            "year": "2023",
+            "photos": {
+                "front": "https://media.hatla2eestatic.com/uploads/ncarteraz/42254/big-up_1d3f66535ec24576b708cd727b130f82.jpg",
+                "back": "https://media.hatla2eestatic.com/uploads/ncarteraz/42254/big-up_4cec9c054b252ce6bc859d905a32e2ac.jpg",
+                "interior": "https://media.hatla2eestatic.com/uploads/ncarteraz/42254/big-up_b707a2ece8cb2e186c3339765461f737.jpg"
+            },
+            "brand_logo": "https://banner2.cleanpng.com/20180528/zbh/kisspng-koda-auto-car-koda-karoq-volkswagen-group-5b0cc490857949.0525420615275634085467.jpg"
+        },
+        {
+            "id": 8,
+            "price": 1700000,
+            "brand": "Skoda",
+            "model": "Superb",
+            "cc": "1400-turbo",
+            "transmission": "automatic",
+            "fuel": "95",
+            "class": "Ambition",
+            "hp": "150",
+            "year": "2023",
+            "photos": {
+                "front": "https://media.hatla2eestatic.com/uploads/ncarteraz/41187/big-up_ba6d4839369b7abc791e657c2f7db4a6.jpg",
+                "back": "https://media.hatla2eestatic.com/uploads/ncarteraz/41187/big-up_dbb8b94229628636414a00235821c072.jpg",
+                "interior": "https://media.hatla2eestatic.com/uploads/ncarteraz/41187/big-up_a19644f295a8cd02210c411742a29e87.jpg"
+            },
+            "brand_logo": "https://banner2.cleanpng.com/20180528/zbh/kisspng-koda-auto-car-koda-karoq-volkswagen-group-5b0cc490857949.0525420615275634085467.jpg"
+        },
+        {
+            "id": 8,
+            "price": 2150000,
+            "brand": "Skoda",
+            "model": "Kodiaq",
+            "cc": "1400-turbo",
+            "transmission": "automatic",
+            "fuel": "95",
+            "class": "L&K",
+            "hp": "150",
+            "year": "2023",
+            "photos": {
+                "front": "https://media.hatla2eestatic.com/uploads/ncarmodel/10486/big-up_49c77344fccfba8244e48582efec02bb.png",
+                "back": "https://media.hatla2eestatic.com/uploads/ncarmodel/10486/big-up_bf2998efb0e68c49289ef73cef621266.png",
+                "interior": "https://media.hatla2eestatic.com/uploads/ncarmodel/10486/big-up_9daeb63e20bb218b0d17fca9324a9463.png"
+            },
+            "brand_logo": "https://banner2.cleanpng.com/20180528/zbh/kisspng-koda-auto-car-koda-karoq-volkswagen-group-5b0cc490857949.0525420615275634085467.jpg"
+        }
+    ]
+}
