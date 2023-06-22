@@ -1,0 +1,106 @@
+.banner {
+  width: 90%;
+  height: 45%;
+  margin-left: 5%;
+  margin-right: 5%;
+  border-right: 0.2px solid #304f72;
+  border-left: 0.2px solid #64809f;
+}
+.banner_container {
+  background-color: #64809f;
+  /* border-top: 0.2px solid #64809f; */
+}
+.banner_heading {
+  z-index: 100;
+  width: 100%;
+  position: absolute;
+  top: 15%;
+  color: #b1624e;
+  text-align: center;
+  font-size: 5rem;
+  line-height: 1;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.banner_heading_slogan {
+  z-index: 100;
+  width: 100%;
+  position: absolute;
+  top: 30%;
+  color: #b1624e;
+  text-align: center;
+  font-size: 2.5rem;
+  line-height: 1;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+@media (max-width: 1400px) {
+  .banner_heading {
+    z-index: 100;
+    width: 100%;
+    position: absolute;
+    top: 10%;
+    color: #b1624e;
+    text-align: center;
+    font-size: 3rem;
+    line-height: 1;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  }
+  .banner_heading_slogan {
+    z-index: 100;
+    width: 100%;
+    position: absolute;
+    top: 20%;
+    color: #b1624e;
+    text-align: center;
+    font-size: 1.5rem;
+    line-height: 1;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  }
+}
+@media (max-width: 900px) {
+  .banner_heading {
+    z-index: 100;
+    width: 100%;
+    position: absolute;
+    top: 10%;
+    color: #b1624e;
+    text-align: center;
+    font-size: 2rem;
+    line-height: 1;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  }
+  .banner_heading_slogan {
+    z-index: 100;
+    width: 100%;
+    position: absolute;
+    top: 15%;
+    color: #b1624e;
+    text-align: center;
+    font-size: 1rem;
+    line-height: 1;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  }
+}
+@media (max-width: 600px) {
+  .banner_heading {
+    z-index: 100;
+    width: 100%;
+    position: absolute;
+    top: 7%;
+    color: #b1624e;
+    text-align: center;
+    font-size: 1rem;
+    line-height: 1;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  }
+  .banner_heading_slogan {
+    z-index: 100;
+    width: 100%;
+    position: absolute;
+    top: 10%;
+    color: #b1624e;
+    text-align: center;
+    font-size: 0.5rem;
+    line-height: 1;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  }
+}

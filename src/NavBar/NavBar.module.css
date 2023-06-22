@@ -1,5 +1,5 @@
 .bar {
-  background-color: #313e56;
+  background-color: #213354;
 }
 .logo {
   height: auto;
@@ -10,12 +10,13 @@
 }
 .logo_name {
   color: lightskyblue;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 .reg_buttons {
   background-color: #64809f;
   transition: background-color 0.3s ease;
   height: 80%;
-  width: 10%;
+  width: 15%;
   border: 0px;
   border-radius: 0.8rem;
 }
@@ -23,7 +24,7 @@
   background-color: #99acd5;
   transition: background-color 0.3s ease;
   height: 80%;
-  width: 10%;
+  width: 15%;
   border: 0px;
   border-radius: 0.8rem;
 }
@@ -31,7 +32,7 @@
   background-color: #64809f;
   transition: background-color 0.3s ease;
   height: 80%;
-  width: 10%;
+  width: 15%;
   border: 0px;
   border-radius: 0.8rem;
 }
@@ -39,7 +40,17 @@
   background-color: #99acd5;
   transition: background-color 0.3s ease;
   height: 80%;
-  width: 10%;
+  width: 15%;
   border: 0px;
   border-radius: 0.8rem;
+}
+@media (max-width: 700px) {
+  .reg_buttons {
+    background-color: #64809f;
+    transition: background-color 0.3s ease;
+    height: 80%;
+    width: 50%;
+    border: 0px;
+    border-radius: 0.8rem;
+  }
 }

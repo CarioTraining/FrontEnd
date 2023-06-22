@@ -168,7 +168,7 @@
             "brand_logo": "https://banner2.cleanpng.com/20180528/zbh/kisspng-koda-auto-car-koda-karoq-volkswagen-group-5b0cc490857949.0525420615275634085467.jpg"
         },
         {
-            "id": 8,
+            "id": 9,
             "price": 2150000,
             "brand": "Skoda",
             "model": "Kodiaq",
@@ -184,6 +184,26 @@
                 "interior": "https://media.hatla2eestatic.com/uploads/ncarmodel/10486/big-up_9daeb63e20bb218b0d17fca9324a9463.png"
             },
             "brand_logo": "https://banner2.cleanpng.com/20180528/zbh/kisspng-koda-auto-car-koda-karoq-volkswagen-group-5b0cc490857949.0525420615275634085467.jpg"
+        }
+    ],
+    "Brand": [
+        {
+            "id": 1,
+            "name": "Škoda",
+            "logo": "https://i.imgur.com/an8fWkK.png",
+            "description": "Škoda Auto a.s., often shortened to Škoda, is a Czech automobile manufacturer established in 1925 as the successor to Laurin & Klement and headquartered in Mladá Boleslav, Czech Republic. Škoda Works became state owned in 1948."
+        },
+        {
+            "id": 2,
+            "name": "Toyota",
+            "logo": "https://i.imgur.com/m084Tf6.png",
+            "description": "Toyota Motor Corporation (Japanese: トヨタ自動車株式会社, Hepburn: Toyota Jidōsha kabushikigaisha, IPA: [toꜜjota], English: /tɔɪˈjoʊtə/, commonly known as simply Toyota) is a Japanese multinational automotive manufacturer headquartered in Toyota City, Aichi, Japan. It was founded by Kiichiro Toyoda and incorporated on August 28, 1937. Toyota is one of the largest automobile manufacturers in the world, producing about 10 million vehicles per year."
+        },
+        {
+            "id": 3,
+            "name": "Suzuki",
+            "logo": "https://i.imgur.com/62DBTbz.png",
+            "description": "Suzuki Motor Corporation (Japanese: スズキ株式会社, Hepburn: Suzuki Kabushiki-Gaisha)[4] is a Japanese multinational corporation headquartered in Minami-ku, Hamamatsu, Japan.[5] Suzuki manufactures automobiles, motorcycles, all-terrain vehicles (ATVs), outboard marine engines, wheelchairs and a variety of other small internal combustion engines. In 2016, Suzuki was the eleventh biggest automaker by production worldwide.[6] Suzuki has over 45,000 employees and has 35 production facilities in 23 countries, and 133 distributors in 192 countries. The worldwide sales volume of automobiles is the world's tenth largest,[7] while domestic sales volume is the third largest in the country.[8]"
         }
     ]
 }
